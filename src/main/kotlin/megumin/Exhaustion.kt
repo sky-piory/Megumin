@@ -1,0 +1,4 @@
+package megumin
+
+class Exhaustion {
+}

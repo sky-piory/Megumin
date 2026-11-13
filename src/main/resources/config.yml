@@ -1,0 +1,15 @@
+name: MeguminExplosion
+version: 1.0.0
+main: me.megumin.Main
+api-version: '26.3'
+description: Megumin's Explosion Magic
+
+commands:
+  explosion:
+    description: Cast Explosion Magic
+    usage: /explosion
+    permission: megumin.explosion
+
+permissions:
+  megumin.explosion:
+    default: true
